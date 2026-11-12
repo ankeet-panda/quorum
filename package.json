@@ -1,0 +1,13 @@
+{
+  "name": "quorum",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "icons": "node icons.mjs",
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "lucide-react": "0.468.0"
+  }
+}
